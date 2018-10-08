@@ -1,2 +1,4 @@
 # Games
-Compilation of games made in c/c++
+
+It's Tictactoe.
+Nothing special, runs in console.
