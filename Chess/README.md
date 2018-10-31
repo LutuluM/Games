@@ -1,2 +1,3 @@
 # Games
-Compilation of games made in c/c++
+
+Chess written in c++ and uses OpenFrameworks to display graphics.
