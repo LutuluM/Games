@@ -1,4 +1,4 @@
-# Games
+# Tic Tac Toe
 
 It's Tictactoe.
 Nothing special, runs in console.
