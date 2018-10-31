@@ -1,4 +1,4 @@
-# Games
+# Centipede
 
 Game of centipede.
 
