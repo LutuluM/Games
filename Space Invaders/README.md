@@ -1,4 +1,4 @@
-# Games
+# Space Invaders
 
 A custom version of space invaders.
 
