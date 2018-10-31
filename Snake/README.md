@@ -1,2 +1,3 @@
 # Games
-Compilation of games made in c/c++
+
+It's snake nothing special.
