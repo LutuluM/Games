@@ -1,3 +1,3 @@
 # Games
 
-A variety of games that i programmed in c or c++ with openframeworks.
+A variety of games programmed in c/c++ with openframeworks.
